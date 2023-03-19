@@ -1,0 +1,9 @@
+Case #1:
+Impossible
+Case #2: 
+*c
+cc
+Case #3:
+Impossible
+Case #4:
+Impossible
